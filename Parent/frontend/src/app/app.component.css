@@ -1,0 +1,21 @@
+table {
+    width: 100%;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.tableFixed {
+    height: 260pt;
+    overflow: auto
+}
+
+.main {
+    margin: 5% 10% 10% 5%;
+}
+
+button {
+    background-color: rgb(152, 188, 255);
+    color: whitesmoke;
+}
