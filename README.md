@@ -26,6 +26,9 @@
    ```sh
    java -jar ./backend/target/MeetingPlannerAPI-0.0.1-SNAPSHOT.war
    ```
+   
+   ![image](https://user-images.githubusercontent.com/23149214/123514748-b7acef80-d694-11eb-960b-4913c5930af8.png)
+
 
 #### Link App: http://localhost:8080/ 
 #### Swagger API Documentation : http://localhost:8080/swagger-ui.html 
