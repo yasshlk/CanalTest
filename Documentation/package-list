@@ -1,0 +1,7 @@
+com.yshlk.meetingplanner
+com.yshlk.meetingplanner.controllers
+com.yshlk.meetingplanner.entities
+com.yshlk.meetingplanner.exceptions
+com.yshlk.meetingplanner.repositories
+com.yshlk.meetingplanner.services
+com.yshlk.meetingplanner.utils
